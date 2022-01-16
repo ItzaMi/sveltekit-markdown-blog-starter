@@ -1,0 +1,15 @@
+---
+title: 'Creating a blog with Svelte'
+slug: 'creating-a-blog-with-svelte'
+outline: "Here's how you can create a blog with Markdown and Svelte"
+---
+
+# Hello there
+
+```svelte
+<script>
+    function() {
+        console.log('markdown is cool')
+    }
+</script>
+```
