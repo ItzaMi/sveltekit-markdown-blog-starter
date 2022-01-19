@@ -4,6 +4,12 @@ slug: 'creating-a-blog-with-svelte'
 outline: "Here's how you can create a blog with Markdown and Svelte"
 ---
 
+<script>
+    import SEO from '../../components/seo.svelte'
+</script>
+
+<SEO title={title} description={outline}/>
+
 # Hello there
 
 ```svelte

@@ -1,0 +1,15 @@
+---
+title: "Here's a second post"
+slug: 'a-second-post'
+outline: "A second post on the template"
+---
+
+<script>
+    import SEO from '../../components/seo.svelte'
+</script>
+
+<SEO title={title} description={outline}/>
+
+# The second post title
+
+__Some bold content__
